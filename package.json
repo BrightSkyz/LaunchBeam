@@ -1,0 +1,29 @@
+{
+  "name": "launchbeam",
+  "version": "1.0.0",
+  "description": "Beam yourself into games\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Da world of games.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrightSkyz/LaunchBeam.git"
+  },
+  "keywords": [
+    "launchbeam",
+    "launch",
+    "beam",
+    "games",
+    "launcher"
+  ],
+  "author": "BrightSkyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrightSkyz/LaunchBeam/issues"
+  },
+  "homepage": "https://github.com/BrightSkyz/LaunchBeam#readme",
+  "dependencies": {
+    "electron": "^3.0.4"
+  }
+}
